@@ -1,2 +1,2 @@
 # tkr
-common library in Rust
+common library in Rust by TopXeQ
