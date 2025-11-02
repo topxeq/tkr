@@ -1,6 +1,6 @@
 [package]
 name = "tkr"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "common library in Rust by TopXeQ"
 license = "MIT"
