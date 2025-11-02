@@ -2,5 +2,7 @@
 name = "tkr"
 version = "0.1.0"
 edition = "2024"
+description = "common library in Rust by TopXeQ"
+license = "MIT"
 
 [dependencies]
